@@ -1,0 +1,2 @@
+rootProject.name='SignInApp'
+include ':app'

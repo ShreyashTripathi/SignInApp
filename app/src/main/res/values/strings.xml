@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SignInApp</string>
+    <string-array name="role">
+        <item>Admin</item>
+        <item>User</item>
+    </string-array>
+</resources>
